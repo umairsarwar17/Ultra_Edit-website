@@ -121,6 +121,14 @@ font-weight: bold;
     border: none;
 
 }
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d4d4;
+    margin-top: 5px;
+    
+}
 
 
 
